@@ -1,5 +1,7 @@
 # Create a Fortune Teller
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/Fortune_Teller_Lab)](https://repl.it/github/upperlinecode/Fortune_Teller_Lab)
+
 ## Intro
 You've grown tired of waiting until the next time you get a fortune cookie to find what your future holds and have decided to take things into your own hands. Using your knowledge of CSS, HTML, and JavaScript you'll create your very own personal fortune teller, so you can get your fortune fix whenever you need.
 
